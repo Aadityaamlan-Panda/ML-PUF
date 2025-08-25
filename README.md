@@ -1,4 +1,4 @@
-# ⚡ PUF Linear Modeling — Starter Pack
+# ⚡ PUF Linear Modeling
 
 Elegant, minimal baseline for modeling and decoding XOR‑arbiter PUFs with handcrafted feature maps and linear classifiers (scikit‑learn only). Train a single linear model (weights + bias), map challenges to rich polynomial features, and optionally decode a provided 65‑D linear model into per‑stage delay vectors.
 
